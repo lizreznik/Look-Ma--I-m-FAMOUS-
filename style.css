@@ -1,4 +1,9 @@
 .card-img {
-    background-image: url('https://picsum.photos/1300/500');
     background-position: center center;
+    opacity: 0.6; 
+    height: 200px; 
+    width: 200px; 
+}
+.card-text { 
+    color: black; 
 }
