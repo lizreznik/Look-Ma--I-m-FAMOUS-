@@ -1,15 +1,16 @@
 .card-img {
     background-position: center center;
     opacity: 0.6;
-    height: 200px; 
+    height: 200%; 
 }
 .card-text { 
     color: white; 
+    font-size: 25px; 
 }
 h5 { 
     text-align: center; 
 }
 .scroll { 
-    max-height: 200px; 
+    max-height: 200%; 
     overflow-y: auto; 
 }
